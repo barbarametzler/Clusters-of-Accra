@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Clusters of Accra
 
-You can use the [editor on GitHub](https://github.com/barbarametzler/Clusters-of-Accra/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Scroll to discover different clusters of Accra. Each map includes one or a set of clusters that describe the built or non-built environment of the city.
+The clusters are created with an unsupervised computer vision technique and therefore only requires images as input.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Natural environments
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Pl2iYoClOaY8aevwqg3i1NolVlaXqFkY" width="640" height="480"></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Densely populated areas
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Sil1xH_RSBqN9GSPbgR3-yFW6rNJU2rR" width="640" height="480"></iframe>
 
-```markdown
-Syntax highlighted code block
+## Mixed environments
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Sil1xH_RSBqN9GSPbgR3-yFW6rNJU2rR" width="640" height="480"></iframe>
 
-# Header 1
-## Header 2
-### Header 3
+Let me know if you discover some neighbourhoods within the clusters and if they make sense to you.
+I'm also interested in the following questions:
 
-- Bulleted
-- List
+### Why do you think these clusters emerge?
+* Geography
+* Human action
+* Historical planning
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### What do they mean for humans living in these areas?
+* Implications
+* Inner/ outer Accra? (Impact of location)
+* Good/ bad for wellbeing?
+* What changes could they bring in the future?
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/barbarametzler/Clusters-of-Accra/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
