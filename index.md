@@ -46,10 +46,8 @@ I'm also interested in the following questions:
     Your email:
     <input type="email" name="_replyto">
   </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
+    <label for="message">Message</label>
+    <textarea rows="5" name="message" id="message" placeholder="Enter your message here" required=""></textarea>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
