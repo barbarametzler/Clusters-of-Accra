@@ -8,21 +8,6 @@ The clusters are created with an unsupervised computer vision technique and ther
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Pl2iYoClOaY8aevwqg3i1NolVlaXqFkY" width="640" height="480"></iframe>
 
-<form
-  action="https://formspree.io/f/mayvwevj"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
 
 ## Densely populated areas
 
@@ -51,5 +36,20 @@ I'm also interested in the following questions:
 * Good/ bad for wellbeing?
 * What changes could they bring in the future?
 
+## Let me know your thoughts
 
-
+<form
+  action="https://formspree.io/f/mayvwevj"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
