@@ -25,7 +25,7 @@ The clusters are created with an unsupervised computer vision technique and ther
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Sil1xH_RSBqN9GSPbgR3-yFW6rNJU2rR" width="640" height="480"></iframe>
 
 ## Mixed environments
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Sil1xH_RSBqN9GSPbgR3-yFW6rNJU2rR" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1F9ZGhvCr8qHo0VH8Z4pupH67jBvBkkbb" width="640" height="480"></iframe>
 
 Let me know if you discover some neighbourhoods within the clusters and if they make sense to you.
 I'm also interested in the following questions:
