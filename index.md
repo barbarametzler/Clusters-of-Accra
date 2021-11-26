@@ -20,6 +20,8 @@ $~~~~~~~~~~~$
 $~~~~~~~~~~~$
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1F9ZGhvCr8qHo0VH8Z4pupH67jBvBkkbb" width="640" height="480"></iframe>
 $~~~~~~~~~~~$
+
+
 Let me know if you discover some neighbourhoods within the clusters and if they make sense to you.
 I'm also interested in the following questions:
 
