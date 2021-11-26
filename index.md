@@ -21,6 +21,11 @@ The clusters are created with an unsupervised computer vision technique and ther
 
 <br/><br/>
 
+## All clusters
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1RbaQLAMhhhp29lRJ23jf56lVBhvFEk0-" width="640" height="480"></iframe>
+<br/><br/>
+
 Let me know if you discover some neighbourhoods within the clusters and if they make sense to you.
 I'm also interested in the following questions:
 
