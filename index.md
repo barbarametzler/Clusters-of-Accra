@@ -1,7 +1,12 @@
 # Clusters of Accra
 
-Scroll to discover different clusters of Accra. Each map includes one or a set of clusters that describe the built or non-built environment of the city.
-The clusters are created with an unsupervised computer vision technique and therefore only requires images as input.
+Scroll through this page to discover different clusters of Accra. Each map includes one or a set of clusters that describe the built or non-built environment of the city. The clusters are created with an unsupervised computer vision technique and therefore only requires images as input.
+
+How to use the maps:
+- Click the +/- buttons or scroll to zoom in and out.
+- Click the top left icon to look at the legend that describes the different colours on the map.
+- Click the top right icon to open the map in a new tab.
+
 
 Let me know if you discover some neighbourhoods within the clusters and if they make sense to you.
 I'm also interested in the following questions:
