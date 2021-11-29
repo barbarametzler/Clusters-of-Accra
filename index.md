@@ -70,7 +70,9 @@ Cluster specific questions (Brown 'empty land' cluster):
     Your email:
     <input type="email" name="_replyto">
   </label>
+  <br/><br/>
   <label>
+   <p><textarea rows="8" name="message" id="message" placeholder="Enter message here" required=""></textarea></p>
     Your message:
     <textarea name="message"></textarea>
   </label>
