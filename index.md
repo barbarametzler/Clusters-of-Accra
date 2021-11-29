@@ -38,7 +38,7 @@ Cluster specific questions:
 
 <br/><br/>
 
-## Mixed environments
+## Mixed environments (Buildings surrounded by Vegetation)
 
 Cluster specific questions:
 - Can you spot any neighbourhoods within this cluster?
@@ -51,7 +51,7 @@ Cluster specific questions:
 
 ## Natural environments
 
-Cluster specific questions (Brown 'empty land' cluster):
+Specific questions regarding the brown 'empty land' cluster:
 - What are advantages/disadvantages of living in areas that are close to rubble/sandy ground?
 - Will the city most like expand into these areas?
 
@@ -73,8 +73,6 @@ Cluster specific questions (Brown 'empty land' cluster):
   <br/><br/>
   <label>
    <p><textarea rows="8" name="message" id="message" placeholder="Enter message here" required=""></textarea></p>
-    Your message:
-    <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
