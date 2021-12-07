@@ -20,7 +20,7 @@ I'm especially interested in the following questions:
 ### What do they mean for humans living in these areas?
 * What are the implications of living in a certain 'cluster'?
 * What is the impact of location? (Inner/ outer Accra?)
-* Is living in a certain area good/ bad for wellbeing and health?
+* Is living in a certain cluster good/ bad for wellbeing and health?
 * What changes could they bring in the future?
 
 
