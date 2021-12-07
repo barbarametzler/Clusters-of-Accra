@@ -4,7 +4,7 @@ Scroll through this page to discover different clusters of Accra. Each map inclu
 
 How to use the maps:
 - Click the +/- buttons or scroll to zoom in and out.
-- Click the top left icon to look at the legend that describes the different colours on the map.
+- Click the top left icon to view the legend that describes the different colours on the map.
 - Click the top right icon to open the map in a new tab.
 
 
