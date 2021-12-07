@@ -8,8 +8,8 @@ How to use the maps:
 - Click the top right icon to open the map in a new tab.
 
 
-Let me know if you discover some neighbourhoods within the clusters and if they make sense to you.
-I'm also interested in the following questions:
+Let me know if you spot certain neighbourhoods within the clusters and if they make sense to you.
+I'm especially interested in the following questions:
 
 ### Why do you think these clusters emerge?
 * Are they influenced by geography (e.g. elevation, soil, etc.)
