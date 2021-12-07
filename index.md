@@ -38,17 +38,6 @@ Cluster specific questions:
 
 <br/><br/>
 
-## Mixed environments (Buildings surrounded by Vegetation)
-
-Cluster specific questions:
-- Can you spot any specific neighbourhoods within this cluster?
-- Does this cluster mainly capture farmland (in the peri-urban area) and wealthy areas in the center of the city (e.g. large buildings with gardens)? Is there a different type of neighbourhood this cluster might capture?
-<br/><br/>
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1F9ZGhvCr8qHo0VH8Z4pupH67jBvBkkbb" width="640" height="480"></iframe>
-
-<br/><br/>
-
 ## Natural environments
 
 Specific questions regarding the brown 'empty land' cluster:
@@ -59,6 +48,17 @@ Specific questions regarding the brown 'empty land' cluster:
 <br/><br/>
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Pl2iYoClOaY8aevwqg3i1NolVlaXqFkY" width="640" height="480"></iframe>
+<br/><br/>
+
+## Mixed environments (Buildings surrounded by Vegetation)
+
+Cluster specific questions:
+- Can you spot any specific neighbourhoods within this cluster?
+- Does this cluster mainly capture farmland (in the peri-urban/ rural areas) and wealthy areas in the center of the city (e.g. large buildings with gardens)? Is there a different type of neighbourhood this cluster might capture?
+<br/><br/>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1F9ZGhvCr8qHo0VH8Z4pupH67jBvBkkbb" width="640" height="480"></iframe>
+
 <br/><br/>
 
 ## Let me know your thoughts
