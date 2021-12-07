@@ -54,7 +54,7 @@ Specific questions regarding the brown 'empty land' cluster:
 
 Cluster specific questions:
 - Can you spot any specific neighbourhoods within this cluster?
-- What different types of neighbourhoods does this cluster capture?
+- What different types of areas does this cluster capture (e.g. farmland, wealthy neighbourhoods, etc.)?
 <br/><br/>
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1F9ZGhvCr8qHo0VH8Z4pupH67jBvBkkbb" width="640" height="480"></iframe>
