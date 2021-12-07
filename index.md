@@ -54,7 +54,7 @@ Cluster specific questions:
 Specific questions regarding the brown 'empty land' cluster:
 - What are advantages/disadvantages of living in areas that are close to rubble/sandy ground?
 - Will the city most like expand into these areas?
-- Are these areas related to mining activities?
+- Are these areas related to mining activities (in the past or present)?
 
 <br/><br/>
 
