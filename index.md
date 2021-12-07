@@ -73,7 +73,7 @@ Cluster specific questions:
   </label>
   <br/><br/>
   <label>
-   <p><textarea rows="8" name="message" id="message" placeholder="Enter message here" required=""></textarea></p>
+   <p><textarea rows="8" cols="50" name="message" id="message" placeholder="Enter message here" required=""></textarea></p>
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
