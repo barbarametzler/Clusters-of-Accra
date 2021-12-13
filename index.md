@@ -107,8 +107,8 @@ Cluster specific questions:
   action="https://formspree.io/f/mayvwevj"
   method="POST">
   <label>
-    Your email:
-    <input type="email" name="_replyto">
+    Name:
+    <input type="name" name="_replyto">
   </label>
   <br/><br/>
   <label>
