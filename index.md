@@ -108,7 +108,7 @@ Cluster specific questions:
   method="POST">
   <label>
     Name:
-    <input type="name" name="_replyto">
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
   </label>
   <br/><br/>
   <label>
