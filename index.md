@@ -39,6 +39,24 @@ Cluster specific questions:
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Sil1xH_RSBqN9GSPbgR3-yFW6rNJU2rR" width="640" height="480"></iframe>
 
 <br/><br/>
+### Let me know your thoughts
+
+<form
+  action="https://formspree.io/f/mayvwevj"
+  method="POST">
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <br/><br/>
+  <label>
+   <p><textarea rows="8" cols="80" name="message" id="message" placeholder="Enter message here" required=""></textarea></p>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+<br/><br/>
+or email me: antje.metzler18@imperial.ac.uk
 
 ## Natural environments
 
@@ -52,6 +70,26 @@ Specific questions regarding the brown 'empty land' cluster:
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Pl2iYoClOaY8aevwqg3i1NolVlaXqFkY" width="640" height="480"></iframe>
 <br/><br/>
 
+### Let me know your thoughts
+
+<form
+  action="https://formspree.io/f/mayvwevj"
+  method="POST">
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <br/><br/>
+  <label>
+   <p><textarea rows="8" cols="80" name="message" id="message" placeholder="Enter message here" required=""></textarea></p>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+<br/><br/>
+or email me: antje.metzler18@imperial.ac.uk
+
+
 ## Mixed environments (Buildings surrounded by Vegetation)
 
 Cluster specific questions:
@@ -63,8 +101,7 @@ Cluster specific questions:
 
 <br/><br/>
 
-## Let me know your thoughts
-<br/><br/>
+### Let me know your thoughts
 
 <form
   action="https://formspree.io/f/mayvwevj"
