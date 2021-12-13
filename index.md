@@ -45,8 +45,8 @@ Cluster specific questions:
   action="https://formspree.io/f/mayvwevj"
   method="POST">
   <label>
-    Your email:
-    <input type="email" name="_replyto">
+    Name:
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
   </label>
   <br/><br/>
   <label>
@@ -56,7 +56,6 @@ Cluster specific questions:
   <button type="submit">Send</button>
 </form>
 <br/><br/>
-or email me: antje.metzler18@imperial.ac.uk
 
 ## Natural environments
 
@@ -72,12 +71,13 @@ Specific questions regarding the brown 'empty land' cluster:
 
 ### Let me know your thoughts
 
+
 <form
   action="https://formspree.io/f/mayvwevj"
   method="POST">
   <label>
-    Your email:
-    <input type="email" name="_replyto">
+    Name:
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
   </label>
   <br/><br/>
   <label>
@@ -87,8 +87,6 @@ Specific questions regarding the brown 'empty land' cluster:
   <button type="submit">Send</button>
 </form>
 <br/><br/>
-or email me: antje.metzler18@imperial.ac.uk
-
 
 ## Mixed environments (Buildings surrounded by Vegetation)
 
