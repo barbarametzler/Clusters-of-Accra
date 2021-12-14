@@ -36,7 +36,7 @@ Cluster specific questions:
 - Are there any differences between the two dark grey clusters?
 - What are the implications of living in these areas?
 
-**Why do these clusters emerge?**
+**Why do these clusters emerge?**<br/> 
 **What do they mean for humans living in these areas?**
 <br/><br/>
 
@@ -69,7 +69,7 @@ Specific questions regarding the brown 'empty land' cluster:
 - Are these areas related to mining activities (in the past or present)?
 
 
-**Why do these clusters emerge?**
+**Why do these clusters emerge?**<br/> 
 **What do they mean for humans living in these areas?**
 <br/><br/>
 
@@ -102,7 +102,7 @@ Cluster specific questions:
 - What different types of areas does this cluster capture (e.g. farmland, wealthy neighbourhoods, etc.)?
 
 
-**Why does this clusters emerge?**
+**Why does this clusters emerge?**<br/> 
 **What does it mean for humans living in these areas?**
 <br/><br/>
 
