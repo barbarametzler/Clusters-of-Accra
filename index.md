@@ -3,7 +3,7 @@
 Scroll through this page to discover different clusters of Accra. Each map includes one or a set of clusters that describe the built environment, the natural environment or a mix of the two. The clusters are created with satellite imagery and an unsupervised computer vision algorithm that groups visually similar areas together.
 
 ![](./map_with_legend.png)
-*Eight different clusters plotted on top of the study area (Greater Accra Metropolitan Area (GAMA))*
+*Eight different clusters plotted on top of a map of the Greater Accra Metropolitan Area (GAMA)*
 
 
 How to use the interactive maps:
