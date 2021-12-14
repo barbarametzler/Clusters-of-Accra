@@ -102,7 +102,7 @@ Cluster specific questions:
 - What different types of areas does this cluster capture (e.g. farmland, wealthy neighbourhoods, etc.)?
 
 
-**Why does this clusters emerge?**\ 
+**Why does this clusters emerge?**\
 **What does it mean for humans living in these areas?**
 <br/><br/>
 
