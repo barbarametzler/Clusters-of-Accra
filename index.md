@@ -102,8 +102,8 @@ Cluster specific questions:
 - What different types of areas does this cluster capture (e.g. farmland, wealthy neighbourhoods, etc.)?
 
 
-### Why do these clusters emerge?
-### What do they mean for humans living in these areas?
+### Why does this clusters emerge?
+### What does it mean for humans living in these areas?
 <br/><br/>
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1F9ZGhvCr8qHo0VH8Z4pupH67jBvBkkbb" width="640" height="480"></iframe>
